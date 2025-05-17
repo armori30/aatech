@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aatech.fi/sitemap.xml

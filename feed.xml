@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AATech</title>
+    <link href="https://aatech.fi/feed.xml" rel="self" />
+    <link href="https://aatech.fi" />
+    <updated>2025-05-17T12:28:22+03:00</updated>
+    <author>
+        <name>Aamos</name>
+    </author>
+    <id>https://aatech.fi</id>
+
+    <entry>
+        <title>Testi Postaus</title>
+        <author>
+            <name>Aamos</name>
+        </author>
+        <link href="https://aatech.fi/testi-postaus.html"/>
+        <id>https://aatech.fi/testi-postaus.html</id>
+
+        <updated>2025-05-17T12:28:22+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Testi Postaus
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testi Postaus</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

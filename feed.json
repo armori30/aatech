@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AATech",
+    "description": "",
+    "home_page_url": "https://aatech.fi",
+    "feed_url": "https://aatech.fi/feed.json",
+    "user_comment": "",
+    "icon": "https://aatech.fi/media/website/1.png",
+    "author": {
+        "name": "Aamos"
+    },
+    "items": [
+        {
+            "id": "https://aatech.fi/testi-postaus.html",
+            "url": "https://aatech.fi/testi-postaus.html",
+            "title": "Testi Postaus",
+            "summary": "Testi Postaus",
+            "content_html": "<p>Testi Postaus</p>",
+            "author": {
+                "name": "Aamos"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-17T12:28:22+03:00",
+            "date_modified": "2025-05-17T12:28:22+03:00"
+        }
+    ]
+}
